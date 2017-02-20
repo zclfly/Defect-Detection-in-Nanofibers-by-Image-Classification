@@ -1,0 +1,8 @@
+IACVProject-FranciscoCarrilloPerez
+image==1.5.5
+Keras==1.2.2
+matplotlib==2.0.0
+numpy==1.12.0
+scipy==0.18.1
+tensorflow==0.12.1
+Pillow==4.0.0
