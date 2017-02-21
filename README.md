@@ -21,7 +21,7 @@ In the documentation you could find the explanation of the project. Everything i
 
 ## DataSet
 
-Since this was the continuation for a paper, I don't know if I'm able to public the dataset I've created. If possiblem it would be uploaded in the future.
+Since this was the continuation for a paper, I don't know if I'm able to public the dataset I've created. If possible, it would be uploaded in the future.
 
 ## Author
 
